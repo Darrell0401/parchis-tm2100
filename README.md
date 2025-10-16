@@ -3,9 +3,9 @@
 Proyecto de Parchís (tablero 1–68, 2 jugadores, dado 1–6, salida con 5, preguntas V/F) con arquitectura MVC en Java (Swing).
 
 ## Estructura
-- `parallax.com.proyectodarrell.modelo` → Clases de lógica y datos del juego
-- `parallax.com.proyectodarrell.vista` → Interfaz gráfica (Swing)
-- `parallax.com.proyectodarrell.controlador` → Comunicación entre vista y modelo
+- `parallax.com.proyectodarrell.model` → Clases de lógica y datos del juego
+- `parallax.com.proyectodarrell.view` → Interfaz gráfica (Swing)
+- `parallax.com.proyectodarrell.controller` → Comunicación entre vista y modelo
 - `parallax.com.proyectodarrell.main` → Punto de entrada (`App`)
 ## Requisitos
 - JDK 17+ (sugerido)
